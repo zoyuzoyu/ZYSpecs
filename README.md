@@ -1,0 +1,2 @@
+# ZYSpecs
+Private PodSpecs
